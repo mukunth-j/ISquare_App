@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "337383591088",
+    "firebase_url": "https://real-time-gas-monitoring-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "real-time-gas-monitoring",
+    "storage_bucket": "real-time-gas-monitoring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337383591088:android:9717b7864b50e02ea67f75",
+        "android_client_info": {
+          "package_name": "com.example.smartapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7uhaySiTL9Zj9bs1GPkE4YBrNJBuuXNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
